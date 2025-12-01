@@ -408,3 +408,8 @@
 .footer-links a:hover {
   color: var(--color-primary);
 }
+
+button {
+  padding: 12px 16px;
+  font-size: 16px;
+}
